@@ -27,6 +27,7 @@
     <Item file ="%ModDir%/XML/Items/Weapons/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Weapons/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Weapons/Tier3.xml" />
+    <Item file ="%ModDir%/XML/Items/Weapons/Tier4.xml" />
 
     <!-- Misc -->
     <Item file ="%ModDir%/XML/Items/Misc/Tier1.xml" />

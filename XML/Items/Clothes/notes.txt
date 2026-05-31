@@ -2,14 +2,14 @@ Utilitaire
 
 
 
-Combat
-Tier 0:
-    - habits vanilla
+Combat:
+    Tier 0:
+        - habits vanilla
 
-Tier 1:
-    - Tenue rembourée, blunt protec, orga fibers
-    - Tenue anti clebs, laceration, bite, blunt protec, bal & orga fibers, -5 elec et mech et medic
+    Tier 1:
+        - Tenue kevlar (gunner outfit like),protege legerement tout, polyvalent, poches 2x2
+        - Tenue rembourée, blunt protec, orga fibers, a mettre en dessous des armures
+        - Cote de maille, laceration protec, steel, standalone laceration protec (couteaux, dents...)
 
-Tier 2:
-    - Tenue kevlar, tout physique, protege legerement les membres
-    - Wetsuit
+    Tier 2:
+        - Bionic Suit, debut modular style saber, rad protec, +5 all stats, +ms petit
