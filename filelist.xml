@@ -23,6 +23,7 @@
     <Item file ="%ModDir%/XML/Helmets/Tier3.xml" />
 
     <!-- Weapons -->
+    <Item file ="%ModDir%/XML/Weapons/Tier0.xml" />
     <Item file ="%ModDir%/XML/Weapons/Tier1.xml" />
     <Item file ="%ModDir%/XML/Weapons/Tier2.xml" />
     <Item file ="%ModDir%/XML/Weapons/Tier3.xml" />
