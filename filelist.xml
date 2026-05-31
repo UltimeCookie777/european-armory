@@ -3,28 +3,29 @@
     <Text file="%ModDir%/XML/Localization/English.xml" />
     <Text file="%ModDir%/XML/Localization/French.xml" />
 
-    <!-- Benches -->
-    <Item file ="%ModDir%/XML/Items/Benches.xml" />
-
     <!-- Armors -->
     <Item file ="%ModDir%/XML/Items/Armors/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Armors/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Armors/Tier3.xml" />
+    <Item file ="%ModDir%/XML/Items/Armors/Tier4.xml" />
 
     <!-- Back -->
     <Item file ="%ModDir%/XML/Items/Back/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Back/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Back/Tier3.xml" />
+    <Item file ="%ModDir%/XML/Items/Back/Tier4.xml" />
 
     <!-- Clothes -->
     <Item file ="%ModDir%/XML/Items/Clothes/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Clothes/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Clothes/Tier3.xml" />
+    <Item file ="%ModDir%/XML/Items/Clothes/Tier4.xml" />
 
     <!-- Helmets -->
     <Item file ="%ModDir%/XML/Items/Helmets/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Helmets/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Helmets/Tier3.xml" />
+    <Item file ="%ModDir%/XML/Items/Helmets/Tier4.xml" />
 
     <!-- Weapons -->
     <Item file ="%ModDir%/XML/Items/Weapons/Tier0.xml" />
@@ -37,5 +38,6 @@
     <Item file ="%ModDir%/XML/Items/Misc/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier3.xml" />
+    <Item file ="%ModDir%/XML/Items/Misc/Tier4.xml" />
 
 </contentpackage>

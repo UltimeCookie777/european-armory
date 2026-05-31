@@ -1,3 +1,12 @@
 Tier0:
     - Vanilla toolbelt
-    - 
+    - Battle Flag (fait rien mais au moins stylé)
+
+Tier1:
+    - BackPack (2x3)
+    - Assault Pack (2x2 normal 2x1 ammo +5 weapon)
+    - Heavy Pack (slow mais 2x4)
+    - Prospection Pack (3x2 minerals 1x1 drill 1x2 battery ou oxy tank)
+
+Tier2:
+    - Modular Pack
