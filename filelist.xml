@@ -2,6 +2,9 @@
 <contentpackage name="European Armory" corepackage="false" modversion="1.0.0">
     <Text file="%ModDir%/XML/Localization/English.xml" />
 
+    <!-- Benches -->
+    <Item file ="%ModDir%/XML/Items/Benches.xml" />
+
     <!-- Armors -->
     <Item file ="%ModDir%/XML/Items/Armors/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Armors/Tier2.xml" />

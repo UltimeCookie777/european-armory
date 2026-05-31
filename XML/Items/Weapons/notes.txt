@@ -6,15 +6,13 @@ Tier 0 (cheap af and useless but funny :) ) :
         - 0.1% Railgun
     - Pipe Shotgun (1 slot shotung, very slow recharge)
     - Crossbow (1 slot harpoon, slow recharge)
-
-Tier 1:
     - Revolver
     - Semi auto Pistol
     - DB Shotgun
     - Harpoon Gun
     - Carabine à verrou
 
-Tier 2:
+Tier 1:
     - Handannon
     - MP5
     - SPAS 12
@@ -31,7 +29,7 @@ Tier 2:
     - Separatist : PK machine gun
     - Coalition : Gatling
 
-Tier 3:
+Tier 2:
     - Cannon
     - KRISS Vector
     - AA-12
@@ -48,6 +46,8 @@ Tier 3:
     - Separatist : DShK
     - Coalition : Minigun
 
+Tier 3:
+    
 
 Tier 4:
     - Toutes les merdes aliens mais mieux version HALO
