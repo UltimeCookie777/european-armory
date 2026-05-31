@@ -28,5 +28,9 @@
     <Item file ="%ModDir%/XML/Weapons/Tier2.xml" />
     <Item file ="%ModDir%/XML/Weapons/Tier3.xml" />
 
+    <!-- Misc -->
+    <Item file ="%ModDir%/XML/Misc/Tier1.xml" />
+    <Item file ="%ModDir%/XML/Misc/Tier2.xml" />
+    <Item file ="%ModDir%/XML/Misc/Tier3.xml" />
 
 </contentpackage>

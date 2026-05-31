@@ -1,12 +1,16 @@
 Tier 1 :
-- Scrap Armor & helmet: 2 steel, slow beaucoup
-- Classique gilet kevlar 
-- Inspiration Gunner Helmet
+    - Scrap Armor: 2 steel, slow beaucoup
+    - Classique gilet kevlar soft 
 
-Tier 2 :
+Tier 2 :    
 - Plate Carrier
     - Ceramique : Silicon, bonne prot, faible dura
     - Acier : Steel, meilleure prot, moyenne dura, slow
     - Titanium Alloy : Alloy, meilleure+ prot, moyenne+ dura, slow
     - Physicorium : Physicorium, bonne prot, bonne dura
 
+- Jugernaut Armor
+    - Full armor : Steel et Alloy, prot excellente et full body, slow de fou, -20 elec mech helm medic
+
+- Riot Armor
+    - Full armor : Steel et balistic fib, prot blunt bite laceration zaptazer et plaque torse, -5 elec mech 
