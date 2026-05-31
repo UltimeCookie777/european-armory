@@ -1,0 +1,15 @@
+Utilitaire
+
+
+
+Combat
+Tier 0:
+    - habits vanilla
+
+Tier 1:
+    - Tenue rembourée, blunt protec, orga fibers
+    - Tenue anti clebs, laceration, bite, blunt protec, bal & orga fibers, -5 elec et mech et medic
+
+Tier 2:
+    - Tenue kevlar, tout physique, protege legerement les membres
+    - 

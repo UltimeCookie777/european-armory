@@ -1,0 +1,12 @@
+Tier 1 :
+- Scrap Armor & helmet: 2 steel, slow beaucoup
+- Classique gilet kevlar 
+- Inspiration Gunner Helmet
+
+Tier 2 :
+- Plate Carrier
+    - Ceramique : Silicon, bonne prot, faible dura
+    - Acier : Steel, meilleure prot, moyenne dura, slow
+    - Titanium Alloy : Alloy, meilleure+ prot, moyenne+ dura, slow
+    - Physicorium : Physicorium, bonne prot, bonne dura
+
