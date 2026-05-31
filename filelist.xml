@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contentpackage name="European Armory" corepackage="false" modversion="1.0.0">
     <Text file="%ModDir%/XML/Localization/English.xml" />
+    <Text file="%ModDir%/XML/Localization/French.xml" />
 
     <!-- Armors -->
     <Item file ="%ModDir%/XML/Items/Armors/Tier1.xml" />

@@ -3,13 +3,7 @@ Utility
 
 
 Combat:
-    Balistic Plates:
-        - Ceramique (Tier1) : Silicon, bonne prot, faible dura
-        - Acier (Tier1) : Steel, meilleure prot, moyenne dura, slow
-        - Titanium Alloy (Tier2) : Alloy, meilleure+ prot, moyenne+ dura, slow
-        - Physicorium (Tier3) : Physicorium, bonne prot, bonne dura
-        - Dementonite (Tier4) : Dementonite, bonne prot, bonne dura, regen dura
-
+    
     Tier 0 :
         - Scrap Vest: 2 steel
 
@@ -36,6 +30,6 @@ Combat:
             - Full armor :
 
     Tier3 :
-        - Combat modular Diving Suit + de resi
+        - Combat modular Diving Suit: + de resi
 
-        - Utility modular diving Suit + de slots Utilitaires 
+        - Utility modular diving Suit: + de slots Utilitaires 
