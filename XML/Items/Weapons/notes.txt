@@ -1,16 +1,33 @@
-Ranged
-Tier 0 (cheap af and useless but funny :) ) :
-    - Eoka (1 plastic single use random pistol)
-        - 70% Normal
-        - 29.9% Confettis, tout petit burn, gunshot
-        - 0.1% Railgun
-    - Pipe Shotgun (1 slot shotung, very slow recharge)
-    - Crossbow (1 slot harpoon, slow recharge)
-    - Revolver
-    - Semi auto Pistol
-    - DB Shotgun
-    - Harpoon Gun
-    - Carabine à verrou
+Melee:
+    Tier0:
+        -
+
+    Tier1:
+        -
+
+    Tier2:
+        -
+
+    Tier3:
+        -
+
+    Tier4:
+        -
+
+
+Ranged:
+    Tier 0 (cheap af and useless but funny :) ) :
+        - Eoka (1 plastic single use random pistol)
+            - 70% Normal
+            - 29.9% Confettis, tout petit burn, gunshot
+            - 0.1% Railgun
+        - Pipe Shotgun (1 slot shotung, very slow recharge)
+        - Crossbow (1 slot harpoon, slow recharge)
+        - Revolver
+        - Semi auto Pistol
+        - DB Shotgun
+        - Harpoon Gun
+        - Carabine à verrou
 
 Tier 1:
     - Handannon

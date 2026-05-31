@@ -2,6 +2,27 @@ Utilitaire
 
 
 
-Combat
-Tier 1 :
-    -
+Combat:
+    Tier0:
+        - Scrap Cap
+
+        - Scrap Helmet
+
+        - Routine Diving Helmet
+
+    Tier1:
+        - Balistic Cap
+
+        - Balistic Helmet
+
+        - Riot Helmet
+
+        - Diving Helmet
+
+    Tier2:
+        - Modular diving Helmet
+
+    Tier3:
+        - Combat Modular Helmet
+
+        - Utility Modular Helmet
