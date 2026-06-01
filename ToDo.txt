@@ -1,0 +1,7 @@
+- faire position des armes de melee dans les mains
+- faire un atlas icons dans la barre
+- mettre eoka dans l'atlas RangedWeaponsAtlas.png
+- balance weapons 
+- finir le créatif du T2 (moderne+)
+- finir le créatif du T3 (high tech/futuriste)
+- finir le créatif du T4 (alien)

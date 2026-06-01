@@ -147,10 +147,10 @@
                 <RequiredSkill identifier="weapons" level="15" />
                 <RequiredItem identifier="iron" amount="3" />
             </Fabricate>
-            <InventoryIcon texture="%ModDir%/Images/Weapons/ScrapMachete.png" sourcerect="0,0,100,50" origin="0.5,0.5" />
-            <Sprite texture="%ModDir%/Images/Weapons/ScrapMachete.png" sourcerect="0,0,100,50" depth="0.55" origin="0.5,0.5" />
+            <InventoryIcon texture="%ModDir%/Images/Weapons/MeleeWeaponsAtlas.png" sourcerect="0,0,103,18" origin="0.5,0.5" />
+            <Sprite texture="%ModDir%/Images/Weapons/MeleeWeaponsAtlas.png" sourcerect="0,0,103,18" depth="0.55" origin="0.5,0.5" />
             <Body width="50" height="100" density="25" />
-            <MeleeWeapon slots="Any,RightHand,LeftHand" aimpos="50,0" handle1="-27,15" holdangle="30" reload="0.75" range="100" combatPriority="25" msg="ItemMsgPickUpSelect">
+            <MeleeWeapon slots="Any,RightHand,LeftHand" aimpos="50,0" handle1="0,0" holdangle="30" reload="0.75" range="100" combatPriority="25" msg="ItemMsgPickUpSelect">
                 <Attack targetimpulse="2" severlimbsprobability="1" itemdamage="3" structuredamage="2" structuresoundtype="StructureSlash">
                     <Affliction identifier="lacerations" strength="20" />
                     <Affliction identifier="bleeding" strength="5" />
@@ -193,10 +193,10 @@
                 <RequiredSkill identifier="weapons" level="15" />
                 <RequiredItem identifier="steel" amount="2" />
             </Fabricate>
-            <InventoryIcon texture="%ModDir%/Images/Weapons/BaseballBat.png" sourcerect="0,0,100,100" origin="0.5,0.5" />
-            <Sprite texture="%ModDir%/Images/Weapons/BaseballBat.png" sourcerect="0,0,100,100" depth="0.55" origin="0.5,0.5" />
+            <InventoryIcon texture="%ModDir%/Images/Weapons/MeleeWeaponsAtlas.png" sourcerect="0,25,138,39" origin="0.5,0.5" />
+            <Sprite texture="%ModDir%/Images/Weapons/MeleeWeaponsAtlas.png" sourcerect="0,25,138,39" depth="0.55" origin="0.5,0.5" />
             <Body width="50" height="100" density="25" />
-            <MeleeWeapon slots="Any,RightHand+LeftHand" aimpos="50,0" handle1="-15,-17" holdangle="0" reload="0.75" range="100" combatPriority="25" msg="ItemMsgPickUpSelect">
+            <MeleeWeapon slots="Any,RightHand+LeftHand" aimpos="50,0" handle1="0,0" holdangle="0" reload="0.75" range="100" combatPriority="25" msg="ItemMsgPickUpSelect">
                 <Attack targetimpulse="2" severlimbsprobability="0" itemdamage="3" structuredamage="2" structuresoundtype="StructureSlash">
                     <Affliction identifier="blunttrauma" strength="40" />
                     <Affliction identifier="stun" strength="1" />

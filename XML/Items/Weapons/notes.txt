@@ -2,7 +2,7 @@ Melee:
     Tier0:
         - Scrap machete (degats bleed) done
         - Shiv (durabilitée,gros degats bleed)
-        - Baseball Bat (2hands, degats blunt ok, presque pas pen)
+        - Baseball Bat (2hands, degats blunt ok, presque pas pen) done mais faut balance parce que la ça fait trop mal
         - Stick (ouch)
 
     Tier1:
