@@ -126,7 +126,7 @@
         </Item>
 
     <!-- melee -->
-        <Item name="Scrap Machete" identifier="ae_smachete" category="Weapon" Tags="smallitem,weapon,gunsmith,mountableweapon,sharptool" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" RequireAimToUse="True">
+        <Item name="Scrap Machete" identifier="ae_scrmachete" category="Weapon" Tags="smallitem,weapon,gunsmith,mountableweapon,sharptool" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" RequireAimToUse="True">
             <PreferredContainer secondary="wreckarmcab,abandonedarmcab,piratearmcab" amount="1" spawnprobability="0.25" />
             <PreferredContainer secondary="abandonedstoragecab,piratestoragecab" amount="1" spawnprobability="0.05" />
             <PreferredContainer secondary="beaconsupplycab" amount="1" spawnprobability="0.05" />
@@ -162,6 +162,48 @@
                         <Sound file="Content/Sounds/Damage/LimbSlash4.ogg" range="500" />
                         <Sound file="Content/Sounds/Damage/LimbSlash5.ogg" range="500" />
                         <Sound file="Content/Sounds/Damage/LimbSlash6.ogg" range="500" />
+                    </StatusEffect>
+                </Attack>
+            </MeleeWeapon>
+            <aitarget sightrange="500" soundrange="250" fadeouttime="1" />
+            <Quality>
+                <QualityStat stattype="StrikingPowerMultiplier" value="0.1" />
+            </Quality>
+            <Upgrade gameversion="0.10.0.0" scale="0.5" />
+        </Item>
+
+        <Item name="Baseball Bat" identifier="ae_bbat" category="Weapon" Tags="mediumitem,weapon,gunsmith,mountableweapon" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" RequireAimToUse="True">
+            <PreferredContainer secondary="wreckarmcab,abandonedarmcab,piratearmcab" amount="1" spawnprobability="0.25" />
+            <PreferredContainer secondary="abandonedstoragecab,piratestoragecab" amount="1" spawnprobability="0.05" />
+            <PreferredContainer secondary="beaconsupplycab" amount="1" spawnprobability="0.05" />
+            <PreferredContainer primary="secarmcab" secondary="armcab" />
+            <Price baseprice="30">
+                <Price storeidentifier="merchantoutpost" multiplier="1.5" minavailable="6" />
+                <Price storeidentifier="merchantcity" multiplier="1.25" minavailable="8" />
+                <Price storeidentifier="merchantresearch" multiplier="1.25" minavailable="2" />
+                <Price storeidentifier="merchantmilitary" multiplier="0.9" minavailable="15" />
+                <Price storeidentifier="merchantmine" multiplier="1.25" minavailable="2" />
+                <Price storeidentifier="merchantarmory" multiplier="0.9" minavailable="15" />
+                <Price storeidentifier="merchanthusk" minavailable="0" maxavailable="2"/>
+            </Price>
+            <Deconstruct time="10">
+                <Item identifier="steel" />
+            </Deconstruct>
+            <Fabricate suitablefabricators="fabricator" requiredtime="10">
+                <RequiredSkill identifier="weapons" level="15" />
+                <RequiredItem identifier="steel" amount="2" />
+            </Fabricate>
+            <InventoryIcon texture="%ModDir%/Images/Weapons/BaseballBat.png" sourcerect="0,0,100,100" origin="0.5,0.5" />
+            <Sprite texture="%ModDir%/Images/Weapons/BaseballBat.png" sourcerect="0,0,100,100" depth="0.55" origin="0.5,0.5" />
+            <Body width="50" height="100" density="25" />
+            <MeleeWeapon slots="Any,RightHand+LeftHand" aimpos="50,0" handle1="-15,-17" holdangle="0" reload="0.75" range="100" combatPriority="25" msg="ItemMsgPickUpSelect">
+                <Attack targetimpulse="2" severlimbsprobability="0" itemdamage="3" structuredamage="2" structuresoundtype="StructureSlash">
+                    <Affliction identifier="blunttrauma" strength="40" />
+                    <Affliction identifier="stun" strength="1" />
+                    <StatusEffect type="OnUse" target="UseTarget">
+                        <Conditional entitytype="eq Character" />
+                        <Sound file="Content/Items/Weapons/Smack1.ogg" selectionmode="random" range="500" />
+                        <Sound file="Content/Items/Weapons/Smack2.ogg" range="500" />
                     </StatusEffect>
                 </Attack>
             </MeleeWeapon>
