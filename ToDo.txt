@@ -1,5 +1,4 @@
 - faire un atlas icons dans la barre (icones carré)
-- mettre eoka dans l'atlas RangedWeaponsAtlas.png
 - balance weapons 
 - finir le créatif du T2 (moderne+)
 - finir le créatif du T3 (high tech/futuriste)

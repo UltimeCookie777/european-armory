@@ -254,6 +254,7 @@
                         <Sound file="Content/Sounds/Damage/LimbSlash5.ogg" range="500" />
                         <Sound file="Content/Sounds/Damage/LimbSlash6.ogg" range="500" />
                     </StatusEffect>
+                    <StatusEffect type="OnUse" target="This" Condition="-30.0" />
                 </Attack>
                 
                 <StatusEffect type="OnUse" target="this" condition="-1.0" />
