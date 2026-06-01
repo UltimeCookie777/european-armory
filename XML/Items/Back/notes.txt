@@ -1,6 +1,6 @@
 Tier0:
     - Vanilla toolbelt
-    - Battle Flag (fait rien mais au moins stylé)
+    - Medical Fannypack (2x3 medical items)
 
 Tier1:
     - BackPack (2x3)
@@ -10,3 +10,20 @@ Tier1:
 
 Tier2:
     - Modular Pack
+        - Storage 3x2 + 2x1 upgrades
+    - Modular Medical Pack
+        - Storage 3x1 + 3x2 medical + 2x1 upgrades
+    - Modular Utility Pack 
+        - Storage 3x1 + 3x1 tools + 3x1 upgrades
+    - Modular Weapon Pack
+        - Storage 3x1 + 3x1 ammo + 1x1 Large weapon slot + 2x1 upgrades
+
+Tier3:
+    - Advanced Modular Pack
+        - Storage 3x3 + 2x1 upgrades
+    - Advanced Modular Medical Pack
+        - Storage 3x2 + 3x2 medical + 2x1 upgrades
+    - Advanced Modular Utility Pack 
+        - Storage 3x2 + 3x1 tools + 3x1 upgrades
+    - Advanced Modular Weapon Pack
+        - Storage 3x2 + 3x1 ammo + 1x1 Large weapon slot + 2x1 upgrade

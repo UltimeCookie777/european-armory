@@ -13,3 +13,6 @@ Combat:
 
     Tier 2:
         - Bionic Suit, debut modular style saber, rad protec, +5 all stats, +ms petit
+
+    Tier 3:
+        - Cybernetic Suit, rad protec++, burn protec, +10 all stats, +ms

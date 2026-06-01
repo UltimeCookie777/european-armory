@@ -1,9 +1,16 @@
 Melee:
     Tier0:
-        -
+        - Scrap machete (degats bleed)
+        - Shiv (durabilitée,gros degats bleed)
+        - Baseball Bat (2hands, degats blunt ok, presque pas pen)
+        - Stick (ouch)
 
     Tier1:
-        -
+        - Machete (bleed)
+        - LongSword (2hands, Laceration+dismemberment)
+        - Knife (no dura, Degats bleed)
+        - SledgeHammer (2hands, degats blunt, pen )
+        - Stun Baton (classique)
 
     Tier2:
         -
@@ -23,48 +30,49 @@ Ranged:
             - 0.1% Railgun
         - Pipe Shotgun (1 slot shotung, very slow recharge)
         - Crossbow (1 slot harpoon, slow recharge)
-        - Revolver
-        - Semi auto Pistol
-        - DB Shotgun
-        - Harpoon Gun
-        - Carabine à verrou
+    Tier0+ :
+        - Revolver (6 shots decent damages)
+        - Semi auto Pistol (17 shots mhe damges)
+        - DB Shotgun (2 slots)
+        - Harpoon Gun (5 slots harpoon)
+        - Carabine à verrou (5 slots, good damages, slow reload)
 
-Tier 1:
-    - Handannon
-    - MP5
-    - SPAS 12
-    - Harpoon Coil-Rifle
-    - SSG 08
-    - M79
-    Fusils d'assault
-    - Separatist : AK 47
-    - Coalitiion : G36
-    LMG
-    - Separatist : Kalachnikov RPK
-    - Coalition : BAR
-    HMG
-    - Separatist : PK machine gun
-    - Coalition : Gatling
+    Tier 1:
+        - Handcannon
+        - MP5
+        - SPAS 12
+        - Harpoon Coil-Rifle
+        - SSG 08
+        - M79
+        Fusils d'assault
+        - Separatist : AK 47
+        - Coalitiion : G36
+        LMG
+        - Separatist : Kalachnikov RPK
+        - Coalition : BAR
+        HMG
+        - Separatist : PK machine gun
+        - Coalition : Gatling
 
-Tier 2:
-    - Cannon
-    - KRISS Vector
-    - AA-12
-    - Railgun Harpoon Cannon
-    - Barrett M82
-    - Mikor MGL
-    Fusils d'assault
-    - Separatist : AUG
-    - Coalition : FAMAS
-    LMG
-    - Separatist : MG42
-    - Coalitiion : M249
-    HMG
-    - Separatist : DShK
-    - Coalition : Minigun
+    Tier 2:
+        - Cannon
+        - KRISS Vector
+        - AA-12
+        - Railgun Harpoon Cannon
+        - Barrett M82
+        - Mikor MGL
+        Fusils d'assault
+        - Separatist : AUG
+        - Coalition : FAMAS
+        LMG
+        - Separatist : MG42
+        - Coalitiion : M249
+        HMG
+        - Separatist : DShK
+        - Coalition : Minigun
 
-Tier 3:
-    
+    Tier 3:
+        
 
-Tier 4:
-    - Toutes les merdes aliens mais mieux version HALO
+    Tier 4:
+        - Toutes les merdes aliens mais mieux version HALO

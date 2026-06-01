@@ -13,3 +13,10 @@ Misc Items:
         - Tier4 is craftable after getting 1 ultra tech blueprint in a ruin 
 
         - You need the previous Crafting bench to make the new one
+
+    Shields:
+        - Scrap Shield (Tier0) (faible dura petite zone de protec)
+        - Riot Shield (Tier1) (faible dura grande zone de protec)
+        - Balistic Shield (Tier2) (moyenne dura moyenne zone de protec)
+        - Energy Shield (Tier3) (battery pour dura, zone moyenne protec)
+        - Buble Shield (shield protoss)
