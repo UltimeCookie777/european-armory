@@ -4,8 +4,8 @@
         <Item name="" identifier="ea_eoka_round_normal" hideinmenus="true" tags="ea_eoka_round">
             <PreferredContainer primary="ea_eoka" amount="1" spawnprobability="1" />
             
-            <InventoryIcon texture="%ModDir%/Images/Weapons/eoka.png" sourcerect="0,0,108,54" origin="0.5,0.5" />
-            <Sprite texture="%ModDir%/Images/Weapons/eoka.png" sourcerect="0,0,108,54" depth="0.55" origin="0.5,0.5"/>
+            <InventoryIcon texture="%ModDir%/Images/Weapons/RangedWeaponsAtlas.png" sourcerect="5,5,99,46" origin="0.5,0.5" />
+            <Sprite texture="%ModDir%/Images/Weapons/RangedWeaponsAtlas.png" sourcerect="5,5,99,46" origin="0.5,0.5" />
             <Body width="108" height="54" density="25" />
             <Pickable slots="Any" msg="ItemMsgPickUpSelect" />
 
@@ -214,7 +214,7 @@
             <Upgrade gameversion="0.10.0.0" scale="0.5" />
         </Item>
 
-        <Item name="Shiv" identifier="ea_shiv" category="Weapon" Tags="smallitem,weapon,gunsmith,mountableweapon,sharptool" maxcondition="5" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" RequireAimToUse="True">
+        <Item name="Shiv" identifier="ea_shiv" category="Weapon" Tags="smallitem,weapon,gunsmith,mountableweapon,sharptool" maxcondition="100" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" RequireAimToUse="True">
             <PreferredContainer secondary="wreckarmcab,abandonedarmcab,piratearmcab" amount="1" spawnprobability="0.25" />
             <PreferredContainer secondary="abandonedstoragecab,piratestoragecab" amount="1" spawnprobability="0.05" />
             <PreferredContainer secondary="beaconsupplycab" amount="1" spawnprobability="0.05" />
@@ -257,7 +257,7 @@
                     <StatusEffect type="OnUse" target="This" Condition="-30.0" />
                 </Attack>
                 
-                <StatusEffect type="OnUse" target="this" condition="-1.0" />
+                <StatusEffect type="OnUse" target="this" condition="-20.0" />
 
                 <StatusEffect type="OnBroken" target="This">
                     <sound file="Content/Sounds/Damage/HitMetal3.ogg" volume="2" range="1200" />
