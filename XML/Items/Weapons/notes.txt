@@ -1,15 +1,15 @@
 Melee:
     Tier0:
         - Scrap machete (degats bleed) done
-        - Shiv (durabilitée,gros degats bleed)
+        - Shiv (durabilitée,gros degats bleed) done
         - Baseball Bat (2hands, degats blunt ok, presque pas pen) done mais faut balance parce que la ça fait trop mal
-        - Stick (ouch)
+        - Police baton (stun no dmg) done mais pas balance
 
     Tier1:
         - Machete (bleed)
         - LongSword (2hands, Laceration+dismemberment)
         - Knife (Degats bleed, fast attack)
-        - SledgeHammer (2hands, degats blunt, pen )
+        - SledgeHammer (2hands, degats blunt, pen)
         - Stun Baton (classique)
         - Boarding axe (2h, bonus degats batiments)
 
@@ -34,7 +34,7 @@ Ranged:
             - 70% Normal
             - 29.9% Confettis, tout petit burn, gunshot
             - 0.1% Railgun
-        - Pipe Shotgun (1 slot shotung, very slow recharge)
+        - Pipe Shotgun (1 slot shotgun, very slow recharge)
         - Crossbow (1 slot harpoon, slow recharge)
     Tier0+ :
         - Revolver (6 shots decent damages)
