@@ -8,12 +8,18 @@ Melee:
     Tier1:
         - Machete (bleed)
         - LongSword (2hands, Laceration+dismemberment)
-        - Knife (no dura, Degats bleed)
+        - Knife (Degats bleed, fast attack)
         - SledgeHammer (2hands, degats blunt, pen )
         - Stun Baton (classique)
+        - Boarding axe (2h, bonus degats batiments)
 
     Tier2:
-        -
+        - Serrated Machete (BLEED+++++++)
+        - Executioner's Sword (mordhau, epée 2h, bcp dismemberment )
+        - Karambit (Degats bleed, bonne pen, fast attack)
+        - Electric shock baton (stun++, funny si cardiac arrest a l'attaque xD)
+        - Assault Axe (boarding axe mais mieux, 2h)
+        - R.B.H (Really.Big.Hammer, slow attack, huge dmg)
 
     Tier3:
         -

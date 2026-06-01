@@ -19,10 +19,19 @@ Combat:
 
         - Diving Helmet
 
+        - Clown Diving Helmet
+
     Tier2:
         - Modular diving Helmet
+
+        - Clown Modular Helmet (give psychosis)
 
     Tier3:
         - Combat Modular Helmet
 
         - Utility Modular Helmet
+    
+    Tier4:
+        - 
+
+        

@@ -19,4 +19,16 @@ Misc Items:
         - Riot Shield (Tier1) (faible dura grande zone de protec)
         - Balistic Shield (Tier2) (moyenne dura moyenne zone de protec)
         - Energy Shield (Tier3) (battery pour dura, zone moyenne protec)
-        - Buble Shield (shield protoss)
+        - Buble Shield (Tier4) (shield protoss)
+
+    Brassards:
+        - Medic: rouge avec red cross +5medical
+        - Engineer: orange avec ampoule +5elec
+        - Mechanic: blue avec engrenage +5mech
+        - Soldier: grey avec casque +5weap
+        - Captain: blue avec volant +5helm
+        - Assistant: white avec tetine +1 all
+        - Coalition: blue w a star + 2 reput w coalition a chaque station
+        - Rebels: orange w fist + 2 reput w rebels a chaque station
+        - Husks: green w flame give husk cultist robes effect (full tenue cultist + Dementonite + calyx eggs pour craft sinon op)
+        - Clowns: red w clown icons give clown power (full armor clown + Dementonite + bike horn pour craft sinon op)

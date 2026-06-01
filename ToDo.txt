@@ -1,5 +1,4 @@
-- faire position des armes de melee dans les mains
-- faire un atlas icons dans la barre
+- faire un atlas icons dans la barre (icones carré)
 - mettre eoka dans l'atlas RangedWeaponsAtlas.png
 - balance weapons 
 - finir le créatif du T2 (moderne+)
