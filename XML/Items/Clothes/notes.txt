@@ -1,5 +1,13 @@
 Utilitaire
+    Tier 0:
+        - habits vanilla
 
+    Tier 1:
+        - Tenue d'electricien (burn resist, shock resist +5 elec 2x2 poches)
+        - Bleu de travail/Work Jumpsuit (laceration resist, stun resist, +5 mech 2x2 poches)
+        - Tenue Hazmat (rad resist, +10 elec)
+        - Tenue multiusage (legere resist all, +3 all stats, 2x3 poches)
+        - Tenue de medecin (pas de resi, +10 med et surgery, 2x2 poches)
 
 
 Combat:

@@ -39,10 +39,7 @@
     <!-- Misc -->
     <Item file ="%ModDir%/XML/Items/Misc/Blueprints.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Benches.xml" />
-    <Item file ="%ModDir%/XML/Items/Misc/Tier1.xml" />
-    <Item file ="%ModDir%/XML/Items/Misc/Tier2.xml" />
-    <Item file ="%ModDir%/XML/Items/Misc/Tier3.xml" />
-    <Item file ="%ModDir%/XML/Items/Misc/Tier4.xml" />
+    <Item file ="%ModDir%/XML/Items/Misc/Misc.xml" />
 
     <!-- Textures -->
     <Other file="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" />
