@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <infotexts language="English" nonwhitespace="false">
+
+    <!-- Benches -->
+    <entityname.ea_scrapworkbench>Scrap Workbench</entityname.ea_scrapworkbench>
+    <entitydescription.ea_scrapworkbench>A makeshift workbench made out of scrap. Only the most basic of weapons can be crafted here.</entitydescription.ea_scrapworkbench>
+    <entityname.ea_basicworkbench>Basic Workbench</entityname.ea_basicworkbench>
+    <entitydescription.ea_basicworkbench>A basic workbench that allows you to craft simple weapons and armor to deal with the occasional threat.</entitydescription.ea_basicworkbench>
+    <entityname.ea_advancedworkbench>Advanced Workbench</entityname.ea_advancedworkbench>
+    <entitydescription.ea_advancedworkbench>Bla bla bla</entitydescription.ea_advancedworkbench>
+    <entityname.expertworkbench>Expert Workbench</entityname.expertworkbench>
+    <entitydescription.expertworkbench>Bla bla bla</entitydescription.expertworkbench>
+    <entityname.alienworkbench>Alien Workbench</entityname.alienworkbench>
+    <entitydescription.alienworkbench>Bla bla bla</entitydescription.alienworkbench>
+
+    <!-- Blueprints -->
+    <entityname.ea_basicblueprint>Tech trash</entityname.ea_basicblueprint>
+    <entitydescription.ea_basicblueprint>Those could be used to upgrade the Scrap Workbench.</entitydescription.ea_basicblueprint>
+    <entityname.ea_advancedblueprint>Advanced Blueprint</entityname.ea_advancedblueprint>
+    <entitydescription.ea_advancedblueprint>A set of instructions to further upgrade the Basic Workbench.</entitydescription.ea_advancedblueprint>
+    <entityname.expertblueprint>Expert Blueprint</entityname.expertblueprint>
+    <entitydescription.expertblueprint>Schematics of an expert-level workbench.</entitydescription.expertblueprint>
+    <entityname.alienblueprint>Alien Thingy</entityname.alienblueprint>
+    <entitydescription.alienblueprint>A very powerful alien power source that could be used to fabricate very advanced weapons and armors.</entitydescription.alienblueprint>
+
+    <!--======================= WEAPONS ========================-->
+    
+    <!-- Tier 0 -->
+
+    <entityname.ea_eoka>Eoka</entityname.ea_eoka>
+    <entitydescription.ea_eoka>A VERY unreliable gun that shoots either a powerful shot weak against armor or confettis. May the RNG gods be by your sides.</entitydescription.ea_eoka>
+    <entityname.ea_scrmachete>Scrap Machete</entityname.ea_scrmachete>
+    <entitydescription.ea_scrmachete>A simple machete made from scrap metal. Not very sharp.</entitydescription.ea_scrmachete>
+    <entityname.ea_bat>Scrap Bat</entityname.ea_bat>
+    <entitydescription.ea_bat>A crude bat made from scrap metal. Not very effective.</entitydescription.ea_bat>
+    <entityname.ea_polbaton>Police Baton ?</entityname.ea_polbaton>
+    <entitydescription.ea_polbaton></entitydescription.ea_polbaton>
+    <entityname.ea_shiv>Shiv</entityname.ea_shiv>
+    <entitydescription.ea_shiv>A makeshift very sharp stabbing knife. It is howerver poorly made and will break after a few cuts.</entitydescription.ea_shiv>
 </infotexts>
