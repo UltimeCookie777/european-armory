@@ -11,7 +11,7 @@
     <!-- Tier 0 needs no special Item-->
     
     <!-- Used to craft Tier 1 Basic Workbench-->
-    <Item name="" identifier="ea_basicblueprint" category="Material" tags="smallitem" scale="0.5" maxstacksize="32" maxstacksizecharacterinventory="8" impactsoundtag="impact_metal_light">
+    <Item name="Basic Workbench Blueprint" identifier="ea_basicblueprint" category="Material" tags="smallitem" scale="0.5" maxstacksize="32" maxstacksizecharacterinventory="8" impactsoundtag="impact_metal_light">
         <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
         <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
         <Body width="64" height="64" density="20" />
@@ -37,7 +37,7 @@
     </Item>
 
     <!-- Used to craft Tier 2 Advanced Workbench-->
-    <Item name="" identifier="ea_advancedblueprint" category="Material" tags="smallitem" scale="0.5">
+    <Item name="Advanced Workbench Blueprint" identifier="ea_advancedblueprint" category="Material" tags="smallitem" scale="0.5">
         <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="64,0,64,64" origin="0.5,0.5" />
         <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="77,11,37,39" origin="0.5,0.5" />
         <Body radius="39" width="37" density="20" />
@@ -45,7 +45,7 @@
         <Upgrade gameversion="0.10.0.0" scale="0.5" />
     </Item>
     <!-- Used to craft Tier 3 Expert Workbench-->
-    <Item name="" identifier="ea_expertblueprint" category="Material" tags="smallitem" scale="0.5">
+    <Item name="Expert Workbench Blueprint" identifier="ea_expertblueprint" category="Material" tags="smallitem" scale="0.5">
         <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="128,0,64,64" origin="0.5,0.5" />
         <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="129,2,59,54" origin="0.5,0.5" />
         <Body width="59" height="54" density="20" />
@@ -53,7 +53,7 @@
         <Upgrade gameversion="0.10.0.0" scale="0.5" />
     </Item>
     <!-- Used to craft Tier 4 Alien Workbench-->
-    <Item name="" identifier="ea_alienblueprint" category="Material" tags="smallitem" scale="0.5">
+    <Item name="Alien Workbench Blueprint" identifier="ea_alienblueprint" category="Material" tags="smallitem" scale="0.5">
         <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="192,0,64,64" origin="0.5,0.5" />
         <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="194,14,60,34" origin="0.5,0.5" />
         <Body width="60" height="34" density="20" />
