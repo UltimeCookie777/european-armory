@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <!-- 
+        Tier 0 : Scrap workbench
+        Tier 1 : Basic workbench
+        Tier 2 : Advanced workbench
+        Tier 3 : Expert Workbench
+        Tier 4 : Alien workbench
+    -->
+
+    <!-- Tier 0 needs no special Item-->
+    
+    <!-- Used to craft Tier 1 Basic Workbench-->
+    <Item name="" identifier="ea_basicblueprint" category="Material" tags="smallitem" scale="0.5" maxstacksize="32" maxstacksizecharacterinventory="8" impactsoundtag="impact_metal_light">
+        <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
+        <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
+        <Body width="64" height="64" density="20" />
+        <Pickable slots="Any" msg="ItemMsgPickUpSelect" />
+
+        <Deconstruct time="20">
+            <Item identifier="scrap" amount="1" />
+            <Item identifier="fpgacircuit" amount="1" />
+        </Deconstruct>
+
+        <PreferredContainer primary="storagecab" />
+        <PreferredContainer secondary="outposttrashcan" amount="1" spawnprobability="0.01" />
+        <PreferredContainer secondary="outpostengcab,abandonedengcab" amount="1" spawnprobability="0.5" />
+        <PreferredContainer secondary="piratestoragecab" amount="1" spawnprobability="1" />
+        <PreferredContainer secondary="wreckstoragecab" minamount="1" maxamount="2" spawnprobability="0.8" />
+        <PreferredContainer secondary="beaconengcab" amount="1" spawnprobability="0.25" />
+
+        <Price baseprice="3000">
+            <Price storeidentifier="merchantoutpost" minleveldifficulty="5" />
+        </Price>
+
+        <Upgrade gameversion="0.10.0.0" scale="0.5" />
+    </Item>
+
+    <!-- Used to craft Tier 2 Advanced Workbench-->
+    <Item name="" identifier="ea_advancedblueprint" category="Material" tags="smallitem" scale="0.5">
+        <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="64,0,64,64" origin="0.5,0.5" />
+        <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="77,11,37,39" origin="0.5,0.5" />
+        <Body radius="39" width="37" density="20" />
+        <Pickable slots="Any" msg="ItemMsgPickUpSelect" />
+        <Upgrade gameversion="0.10.0.0" scale="0.5" />
+    </Item>
+    <!-- Used to craft Tier 3 Expert Workbench-->
+    <Item name="" identifier="ea_expertblueprint" category="Material" tags="smallitem" scale="0.5">
+        <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="128,0,64,64" origin="0.5,0.5" />
+        <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="129,2,59,54" origin="0.5,0.5" />
+        <Body width="59" height="54" density="20" />
+        <Pickable slots="Any" msg="ItemMsgPickUpSelect" />
+        <Upgrade gameversion="0.10.0.0" scale="0.5" />
+    </Item>
+    <!-- Used to craft Tier 4 Alien Workbench-->
+    <Item name="" identifier="ea_alienblueprint" category="Material" tags="smallitem" scale="0.5">
+        <InventoryIcon texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="192,0,64,64" origin="0.5,0.5" />
+        <Sprite texture="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" sourcerect="194,14,60,34" origin="0.5,0.5" />
+        <Body width="60" height="34" density="20" />
+        <Pickable slots="Any" msg="ItemMsgPickUpSelect" />
+        <Upgrade gameversion="0.10.0.0" scale="0.5" />
+    </Item>
+</Items>

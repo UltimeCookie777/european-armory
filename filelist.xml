@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contentpackage name="European Armory" corepackage="false" modversion="1.0.0">
+    
+    <!-- Translations -->
     <Text file="%ModDir%/XML/Localization/English.xml" />
     <Text file="%ModDir%/XML/Localization/French.xml" />
 
@@ -35,9 +37,18 @@
     <Item file ="%ModDir%/XML/Items/Weapons/Tier4.xml" />
 
     <!-- Misc -->
+    <Item file ="%ModDir%/XML/Items/Misc/Blueprints.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier3.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier4.xml" />
+
+    <!-- Textures -->
+    <Other file="%ModDir%/Images/Blueprints/BlueprintsAtlas.png" />
+    <Other file="%ModDir%/Images/Weapons/RangedWeaponsAtlas.png" />
+    <Other file="%ModDir%/Images/Weapons/MeleeWeaponsAtlas.png" />
+    
+
+    <!-- Audio -->
 
 </contentpackage>
