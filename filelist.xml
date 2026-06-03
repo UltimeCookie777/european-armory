@@ -38,6 +38,7 @@
 
     <!-- Misc -->
     <Item file ="%ModDir%/XML/Items/Misc/Blueprints.xml" />
+    <Item file ="%ModDir%/XML/Items/Misc/Benches.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier1.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier2.xml" />
     <Item file ="%ModDir%/XML/Items/Misc/Tier3.xml" />
